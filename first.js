@@ -3,6 +3,7 @@ let resetbtn = document.querySelector("#reset");
 let newGamebtn = document.querySelector("#newGame");
 let msgContainer = document.querySelector(".msg-container");
 let winMsg = document.querySelector("#winMsg");
+let aman = "aman";
 
 let turn0 = true;
 
